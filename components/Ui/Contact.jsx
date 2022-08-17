@@ -37,10 +37,10 @@ const Contact = () => {
                             <i className="ri-facebook-line"></i>
                         </Link>
                         <Link href='#'>
-                            <i class="ri-twitter-line"></i>
+                            <i className="ri-twitter-line"></i>
                         </Link>
                         <Link href='#'>
-                            <i class="ri-github-line"></i>
+                            <i className="ri-github-line"></i>
                         </Link>
                         <Link href='#'>
                             <i className="ri-linkedin-line"></i>
