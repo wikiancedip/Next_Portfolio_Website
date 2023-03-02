@@ -12,7 +12,7 @@ const Services = () => {
           <div className={`${classes.services__container}`}>
             <div>
               <ServicesItem title='Web Development' icon='ri-apps-line' />
-              <ServicesItem title='Web Designs' icon='ri-computer-line' />
+              <ServicesItem title='DevOps Solutions' icon='ri-computer-line' />
             </div>
             <ServicesItem title='Front-End Development' icon='ri-code-s-slash-line' />
           </div>
